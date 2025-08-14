@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "HTML and CSS resources/MyProject(html.Css)/Project 1"
+	},
+	{
+		"path": "../DrawKit - Startups & Saas Icon Pack"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.multiRootWorkspaceName": "Project 1"
+  }
+}
